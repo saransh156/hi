@@ -1,2 +1,3 @@
 # hi
-1st git repositery 
+ my 1st git repositery 
+author - Saransh Kumar
